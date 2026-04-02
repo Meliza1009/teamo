@@ -156,25 +156,6 @@ graph TB
 
 ---
 
-##  Screenshots
-
-> Add screenshots to `assets/screenshots/` and update the links below.
-
-| Login | Dashboard | Companion Mode |
-|-------|-----------|----------------|
-| ![Login](assets/screenshots/login.png) | ![Dashboard](assets/screenshots/dashboard.png) | ![Companion](assets/screenshots/companion.png) |
-
-| Pairing | Shared Diary | Time Capsule |
-|---------|-------------|--------------|
-| ![Pairing](assets/screenshots/pairing.png) | ![Diary](assets/screenshots/diary.png) | ![Capsule](assets/screenshots/capsule.png) |
-
----
-
-##  Demo Video
-
-> **[▶ Watch Demo Video](https://drive.google.com/drive/folders/1EUQL-rI0mzvvFd7kgniL1z4CQpdMsxdR)**
-
----
 
 ##  APK Download
 
@@ -254,17 +235,11 @@ flutter build apk --release
 
 | Name | Role |
 |------|------|
-| Meliza1009 | Flutter Developer, AI Integration (Groq/Companion Mode), Frontend Screens |
-| Merin Elizabeth Edgar | Backend (Supabase), UI/UX Design, Feature Implementation |
+| Merin Elizabeth Edgar | Flutter Developer,Backend (Supabase), UI/UX Design, Feature Implementation |
+| Thanushree Suresh| Flutter Developer, AI Integration (Groq/Companion Mode), Frontend Screens |
 
 ---
 
-##  AI Tools Used
-
-This project was developed with assistance from:
-- **GitHub Copilot** (Claude Sonnet 4.6) — code generation, debugging, UI implementation, Groq/Supabase integration
-
----
 
 ##  License
 
