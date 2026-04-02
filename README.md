@@ -178,7 +178,7 @@ graph TB
 
 ##  APK Download
 
-> **[ Download latest APK](https://github.com/thanushreesuresh/teamo/releases/latest)**
+> **[ Download latest APK](https://github.com/Meliza1009/teamo/releases/latest)**
 >
 > *(Or build from source — see instructions below)*
 
@@ -194,7 +194,7 @@ graph TB
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/thanushreesuresh/teamo.git
+git clone https://github.com/Meliza1009/teamo.git
 cd teamo
 ```
 
@@ -254,7 +254,7 @@ flutter build apk --release
 
 | Name | Role |
 |------|------|
-| Thanushree Suresh | Flutter Developer, AI Integration (Groq/Companion Mode), Frontend Screens |
+| Meliza1009 | Flutter Developer, AI Integration (Groq/Companion Mode), Frontend Screens |
 | Merin Elizabeth Edgar | Backend (Supabase), UI/UX Design, Feature Implementation |
 
 ---
